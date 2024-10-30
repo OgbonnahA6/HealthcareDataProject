@@ -1,6 +1,8 @@
 #  Tienta Medical LLC
 ![TientaDashboard1](https://github.com/user-attachments/assets/ce3a52a9-1675-4fd8-82ed-e7974c563a37)
 
+## Table of Content
+[Project Overview](#Project Overview)
 ## Introduction
 	This analysis identifies the most profitable specialties, determines patient demographics contributing to revenue, and optimizes resource allocation based on geographic and demographic trends. Such insights empower Tienta Medical management to make data-driven decisions, enhancing profitability, improving patient care, and supporting strategic growth.
 
