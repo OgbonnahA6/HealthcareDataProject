@@ -27,6 +27,7 @@ ________________________________________
 - **2.	Low Revenue Procedures:**
   - **X-Ray: $250 revenue, $50 profit** (underutilized service).
   - **Vaccination: $910 revenue, $270 profit** (requires outreach).
+    
 
     ![TientaMedDashboard](https://github.com/user-attachments/assets/d51cf1be-2bef-40f7-a1e4-011dc58a595c)
 
