@@ -1,6 +1,6 @@
 #  Tienta Medical LLC
 ![image](https://github.com/user-attachments/assets/97c428da-5524-48b9-9731-dd872060403a)
- ## Comprehensive Hospital Analysis Report
+## Comprehensive Hospital Analysis Report
 ________________________________________
 ## Executive Summary
 The analysis of Tienta Medical’s performance and revenue data reveals key insights into the hospital’s operations, revenue generation, and profitability. While specialties like Neurology, Cardiology, and Dermatology drive significant revenue, others such as General Medicine and Surgery underperform. There is a notable decline in revenue post-Q4 2022, necessitating targeted interventions. This report provides a detailed breakdown of performance, trends, and actionable recommendations to optimize revenue, improve patient engagement, and enhance operational efficiency.
